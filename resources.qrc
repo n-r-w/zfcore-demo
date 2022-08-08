@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/core">
+        <file>gui/uni-view/web_channel_injection.js</file>
+    </qresource>
+</RCC>

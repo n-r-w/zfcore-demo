@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/shell">
+        <file>icons/loader.gif</file>
+    </qresource>
+</RCC>
