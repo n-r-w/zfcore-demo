@@ -1,0 +1,5 @@
+<map id="zf::DBEventConnectionDoneMessage" name="zf::DBEventConnectionDoneMessage">
+<area shape="rect" id="node1" title="Драйвер БД информирует что соединение с сервером выполнено (MessageType::DBEventConnectionDone) Автом..." alt="" coords="5,155,209,196"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="58,80,157,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="13,5,202,32"/>
+</map>

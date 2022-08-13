@@ -1,0 +1,5 @@
+<map id="zf::DBCommandGetConnectionInformationMessage" name="zf::DBCommandGetConnectionInformationMessage">
+<area shape="rect" id="node1" title="Получить информацию о подключении к БД (MessageType::DBCommandGetConnectionInformation) Ответ: DBEven..." alt="" coords="5,155,228,196"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="67,80,166,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="22,5,211,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="zf::http::HttpHeader" name="zf::http::HttpHeader">
+<area shape="rect" id="node1" title="Заголовок HTTP Реализация частично выдрана из Qt4, т." alt="" coords="147,5,298,32"/>
+<area shape="rect" id="node2" href="$classzf_1_1http_1_1_http_request_header.html" title="Запрос HTTP Реализация частично выдрана из Qt4, т." alt="" coords="5,80,208,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1http_1_1_http_response_header.html" title="Ответ HTTP Реализация частично выдрана из Qt4, т." alt="" coords="232,80,445,107"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="zf::I_HashedDatasetCutomize" name="zf::I_HashedDatasetCutomize">
+<area shape="rect" id="node1" title="Интерфейс для кастомизации HashedDataset." alt="" coords="147,5,361,32"/>
+<area shape="rect" id="node2" href="$classzf_1_1_highlight_dialog.html" title="Базовый диалог с панелью ошибок." alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_highlight_processor.html" title="Реализация обработки реакции на изменение данных и заполнения модели ошибок" alt="" coords="173,80,335,107"/>
+<area shape="rect" id="node4" href="$classzf_1_1_module_data_object.html" title="Базовый класс для классов, которые входят в модуль и имеют свои данные" alt="" coords="359,80,522,107"/>
+<area shape="rect" id="node5" href="$classzf_1_1_entity_object.html" title="Сущность" alt="" coords="380,155,501,181"/>
+<area shape="rect" id="node6" href="$classzf_1_1_view.html" title="Базовый класс для создания визуальной части модуля" alt="" coords="404,229,477,256"/>
+</map>

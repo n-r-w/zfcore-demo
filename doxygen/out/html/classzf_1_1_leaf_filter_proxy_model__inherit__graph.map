@@ -1,0 +1,5 @@
+<map id="zf::LeafFilterProxyModel" name="zf::LeafFilterProxyModel">
+<area shape="rect" id="node1" title="Фильтрация древовидных item&#45;моделей" alt="" coords="91,5,270,32"/>
+<area shape="rect" id="node2" href="$classzf_1_1_proxy_item_model.html" title="Прокси модель, для организации головных и подчиненных наборов данных" alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_selection_proxy_item_model.html" title="Прокси модель, для организации головных и подчиненных наборов данных" alt="" coords="178,80,386,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="zf::I_ItemDelegateCheckInfo" name="zf::I_ItemDelegateCheckInfo">
+<area shape="rect" id="node1" title="Интерфейс для отображения чекбокса в делегате" alt="" coords="125,5,332,32"/>
+<area shape="rect" id="node2" href="$classzf_1_1_table_view_base.html" title="Таблица с иерархическим заголовком, базовая для основной и фиксированной таблицы" alt="" coords="87,80,226,107"/>
+<area shape="rect" id="node5" href="$classzf_1_1_tree_view.html" title="Древовидная таблица с иерархическим заголовком" alt="" coords="251,80,351,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_frozen_table_view.html" title="Фиксированный боковик" alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node4" href="$classzf_1_1_table_view.html" title="Таблица с иерархическим заголовком" alt="" coords="181,155,287,181"/>
+</map>

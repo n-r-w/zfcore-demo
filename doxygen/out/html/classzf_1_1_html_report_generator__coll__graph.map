@@ -1,0 +1,4 @@
+<map id="zf::HtmlReportGenerator" name="zf::HtmlReportGenerator">
+<area shape="rect" id="node1" title="The HtmlReportGenerator class Генерация документов на основании шаблонов HTML." alt="" coords="5,80,187,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_report_generator.html" title="Базовый абстрактный класс для генерации документов по шаблонам XML (DOCX, ODF), XHTML,..." alt="" coords="21,5,171,32"/>
+</map>

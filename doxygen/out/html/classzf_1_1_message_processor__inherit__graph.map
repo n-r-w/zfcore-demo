@@ -1,0 +1,4 @@
+<map id="zf::MessageProcessor" name="zf::MessageProcessor">
+<area shape="rect" id="node1" title="Класс для упрощения ожидания ответа на асинхронные сообщения Вместо того, чтобы запоминать id отправл..." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="7,5,166,32"/>
+</map>

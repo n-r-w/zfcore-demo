@@ -1,0 +1,7 @@
+<map id="zf::I_HighlightView" name="zf::I_HighlightView">
+<area shape="rect" id="node1" title="Интерфейс для HighlightView." alt="" coords="93,5,236,32"/>
+<area shape="rect" id="node2" href="$classzf_1_1_highlight_dialog.html" title="Базовый диалог с панелью ошибок." alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_module_data_object.html" title="Базовый класс для классов, которые входят в модуль и имеют свои данные" alt="" coords="173,80,335,107"/>
+<area shape="rect" id="node4" href="$classzf_1_1_entity_object.html" title="Сущность" alt="" coords="193,155,315,181"/>
+<area shape="rect" id="node5" href="$classzf_1_1_view.html" title="Базовый класс для создания визуальной части модуля" alt="" coords="217,229,291,256"/>
+</map>

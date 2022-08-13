@@ -1,0 +1,4 @@
+<map id="zf::ImageCateroryID" name="zf::ImageCateroryID">
+<area shape="rect" id="node1" title="Идентификатор категории изображения" alt="" coords="5,80,157,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i_d___wrapper.html" title="Базовый класс для всех целочисленных идентификаторов" alt="" coords="23,5,140,32"/>
+</map>

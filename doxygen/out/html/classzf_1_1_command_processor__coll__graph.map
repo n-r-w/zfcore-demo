@@ -1,0 +1,4 @@
+<map id="zf::CommandProcessor" name="zf::CommandProcessor">
+<area shape="rect" id="node1" title="Класс для упрощения работы с очередями команд: ModuleCommands::CommandKey." alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="11,5,170,32"/>
+</map>

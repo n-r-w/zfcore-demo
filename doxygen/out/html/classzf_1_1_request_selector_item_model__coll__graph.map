@@ -1,0 +1,5 @@
+<map id="zf::RequestSelectorItemModel" name="zf::RequestSelectorItemModel">
+<area shape="rect" id="node1" title="Обертка вокруг данных RequestSelector. Одна колонка" alt="" coords="5,171,223,197"/>
+<area shape="rect" id="node2" href="$classzf_1_1_request_selector.html" title="Выбор из списка, который получается в результате запроса к внешнему сервису" alt="" coords="41,81,187,108"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="35,5,193,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="zf::http::RestConnectionWorker" name="zf::http::RestConnectionWorker">
+<area shape="rect" id="node1" title="Соединение с клиентом. Активно только на время открытго сокета" alt="" coords="5,80,183,121"/>
+<area shape="rect" id="node2" href="$classzf_1_1thread_1_1_worker.html" title="Класс задачи (выполняет некий расчет) В процессе расчета (или до его начала) может принимать запросы ..." alt="" coords="26,5,162,32"/>
+</map>

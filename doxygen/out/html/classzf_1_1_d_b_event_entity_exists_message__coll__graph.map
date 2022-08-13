@@ -1,0 +1,5 @@
+<map id="zf::DBEventEntityExistsMessage" name="zf::DBEventEntityExistsMessage">
+<area shape="rect" id="node1" title="Информация о том, существуют ли такие сущности (MessageType::DBEventEntityExists) Ответ на команду DB..." alt="" coords="5,155,237,181"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="72,80,171,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="27,5,216,32"/>
+</map>

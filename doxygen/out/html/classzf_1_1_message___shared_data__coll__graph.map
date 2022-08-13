@@ -1,0 +1,5 @@
+<map id="zf::Message_SharedData" name="zf::Message_SharedData">
+<area shape="rect" id="node1" title="Данные для Message." alt="" coords="53,109,236,136"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message_code.html" title="Код сообщения для создания нестандартных сообщений" alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node3" href="$classzf_1_1_message_i_d.html" title="Идентификатор сообщения (на базе QString)" alt="" coords="161,5,275,32"/>
+</map>

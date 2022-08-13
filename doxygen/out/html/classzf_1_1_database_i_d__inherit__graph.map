@@ -1,0 +1,4 @@
+<map id="zf::DatabaseID" name="zf::DatabaseID">
+<area shape="rect" id="node1" title="Идентификатор БД" alt="" coords="5,80,123,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i_d___wrapper.html" title="Базовый класс для всех целочисленных идентификаторов" alt="" coords="5,5,123,32"/>
+</map>

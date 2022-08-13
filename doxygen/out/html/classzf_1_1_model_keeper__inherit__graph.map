@@ -1,0 +1,4 @@
+<map id="zf::ModelKeeper" name="zf::ModelKeeper">
+<area shape="rect" id="node1" title="Класс предназначен для централизованного хранения списков моделей, чтобы они не сбрасывались когда сч..." alt="" coords="21,80,148,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="5,5,164,32"/>
+</map>

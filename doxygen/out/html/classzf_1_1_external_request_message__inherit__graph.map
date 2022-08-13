@@ -1,0 +1,5 @@
+<map id="zf::ExternalRequestMessage" name="zf::ExternalRequestMessage">
+<area shape="rect" id="node1" title="Сообщение для отправки результата запроса через I_ExternalRequest::requestLookup." alt="" coords="5,155,212,181"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="59,80,158,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="14,5,203,32"/>
+</map>

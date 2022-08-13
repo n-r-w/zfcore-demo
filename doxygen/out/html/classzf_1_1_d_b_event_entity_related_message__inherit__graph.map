@@ -1,0 +1,8 @@
+<map id="zf::DBEventEntityRelatedMessage" name="zf::DBEventEntityRelatedMessage">
+<area shape="rect" id="node1" title="Что&#45;то произошло с сущностью. Базовый класс для соответсвующих сообщений" alt="" coords="389,71,575,112"/>
+<area shape="rect" id="node4" href="$classzf_1_1_d_b_event_entity_changed_message.html" title="Изменилась сущность (MessageType::DBEventEntityChanged)" alt="" coords="625,5,817,47"/>
+<area shape="rect" id="node5" href="$classzf_1_1_d_b_event_entity_created_message.html" title="Сущность создана (MessageType::DBEventEntityCreated)" alt="" coords="628,71,815,112"/>
+<area shape="rect" id="node6" href="$classzf_1_1_d_b_event_entity_removed_message.html" title="Сущность удалена (MessageType::DBEventEntityRemoved)" alt="" coords="623,136,820,177"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="243,78,341,105"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="5,78,195,105"/>
+</map>

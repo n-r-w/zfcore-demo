@@ -1,0 +1,6 @@
+<map id="zf::MessageUpdateStatusBar" name="zf::MessageUpdateStatusBar">
+<area shape="rect" id="node1" title="Обновить статус бар" alt="" coords="65,171,274,197"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="51,81,149,108"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="5,5,195,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_message_code.html" title="Код сообщения для создания нестандартных сообщений" alt="" coords="174,81,306,108"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="zf::Operation_SharedData" name="zf::Operation_SharedData">
+<area shape="rect" id="node1" title="Данные для Operation." alt="" coords="37,171,225,197"/>
+<area shape="rect" id="node2" href="$classzf_1_1_entity_code.html" title="Код сущности" alt="" coords="5,81,117,108"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i_d___wrapper.html" title="Базовый класс для всех целочисленных идентификаторов" alt="" coords="71,5,188,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_operation_i_d.html" title="Идентификатор операции" alt="" coords="141,81,259,108"/>
+</map>

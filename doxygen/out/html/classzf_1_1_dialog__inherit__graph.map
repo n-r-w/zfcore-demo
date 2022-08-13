@@ -1,0 +1,10 @@
+<map id="zf::Dialog" name="zf::Dialog">
+<area shape="rect" id="node1" title="Базовый класс всех модальных диалогов" alt="" coords="212,132,295,159"/>
+<area shape="rect" id="node3" href="$classzf_1_1_highlight_dialog.html" title="Базовый диалог с панелью ошибок." alt="" coords="369,5,512,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_log_dialog.html" title="Диалог для отображения журнала" alt="" coords="387,56,494,83"/>
+<area shape="rect" id="node5" href="$classzf_1_1_note_dialog.html" title="Диалог с одним мемо полем" alt="" coords="383,107,498,133"/>
+<area shape="rect" id="node6" href="$classzf_1_1_script_view.html" title="Отображение скрипта. ВАЖНО: не модифицировать скрипт после создания данного объекта!" alt="" coords="385,157,496,184"/>
+<area shape="rect" id="node7" href="$classzf_1_1_select_from_model_dialog.html" title="Диалог выбора элемента из модели Если в плагине определено представление, то оно будет использовано д..." alt="" coords="343,208,539,235"/>
+<area shape="rect" id="node8" href="$classzf_1_1_wizard_dialog.html" title="Диалог мастера" alt="" coords="377,259,505,285"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="5,132,164,159"/>
+</map>

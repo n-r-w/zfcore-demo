@@ -1,0 +1,4 @@
+<map id="zf::ScriptStepID" name="zf::ScriptStepID">
+<area shape="rect" id="node1" title="Идентификатор изображения" alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i_d___wrapper.html" title="Базовый класс для всех целочисленных идентификаторов" alt="" coords="7,5,125,32"/>
+</map>

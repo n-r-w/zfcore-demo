@@ -1,0 +1,5 @@
+<map id="zf::PlainTextEdit" name="zf::PlainTextEdit">
+<area shape="rect" id="node1" title="В дополнение к стандартному QPlainTextEdit, умеет динамически менять высоту в зависимости от содержим..." alt="" coords="25,80,151,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_item_selector_memo.html" title="Внутренний контрол для отображения многострочных значений" alt="" coords="5,155,171,181"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="9,5,167,32"/>
+</map>

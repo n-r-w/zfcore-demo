@@ -1,0 +1,5 @@
+<map id="zf::RequestSelectorEditor" name="zf::RequestSelectorEditor">
+<area shape="rect" id="node1" title="Внутренний редактор" alt="" coords="5,171,191,197"/>
+<area shape="rect" id="node2" href="$classzf_1_1_request_selector.html" title="Выбор из списка, который получается в результате запроса к внешнему сервису" alt="" coords="25,81,171,108"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="19,5,177,32"/>
+</map>

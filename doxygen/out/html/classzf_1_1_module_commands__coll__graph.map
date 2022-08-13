@@ -1,0 +1,5 @@
+<map id="zf::ModuleCommands" name="zf::ModuleCommands">
+<area shape="rect" id="node1" title="Команды модулей" alt="" coords="5,200,168,227"/>
+<area shape="rect" id="node2" href="$classzf_1_1_command.html" title="Команда" alt="" coords="33,81,141,108"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i_d___wrapper.html" title="Базовый класс для всех целочисленных идентификаторов" alt="" coords="28,5,145,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="zf::MMCommandGetModelsMessage" name="zf::MMCommandGetModelsMessage">
+<area shape="rect" id="node1" title="Вернуть список загруженных моделей (MessageType::MMCommandGetModels) Ответ от менеджера: MMEventModel..." alt="" coords="5,155,265,181"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="86,80,185,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="41,5,230,32"/>
+</map>

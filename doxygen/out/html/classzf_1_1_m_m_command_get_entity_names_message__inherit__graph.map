@@ -1,0 +1,5 @@
+<map id="zf::MMCommandGetEntityNamesMessage" name="zf::MMCommandGetEntityNamesMessage">
+<area shape="rect" id="node1" title="Команда на получение имен сущностей (MessageType::MMCommandGetEntityNames) Ответ: MMEventEntityNamesM..." alt="" coords="5,155,244,196"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="75,80,174,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="30,5,219,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="zf::I_ConditionFilter" name="zf::I_ConditionFilter">
+<area shape="rect" id="node1" title="Интерфейс фильтрации на основании условий для указанного набора данных" alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$classzf_1_1_view.html" title="Базовый класс для создания визуальной части модуля" alt="" coords="42,80,115,107"/>
+</map>

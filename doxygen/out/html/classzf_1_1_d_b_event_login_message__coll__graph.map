@@ -1,0 +1,5 @@
+<map id="zf::DBEventLoginMessage" name="zf::DBEventLoginMessage">
+<area shape="rect" id="node1" title="Отклик сервера на запрос о структуре каталога (MessageType::DBEventLogin) Ответ на команду DBCommandL..." alt="" coords="5,155,196,181"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="51,80,150,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="6,5,195,32"/>
+</map>

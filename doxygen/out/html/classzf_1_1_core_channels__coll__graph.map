@@ -1,0 +1,4 @@
+<map id="zf::CoreChannels" name="zf::CoreChannels">
+<area shape="rect" id="node1" title="Зарезервированные каналы" alt="" coords="16,212,147,239"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message_channel.html" title="Канал диспетчера сообщений" alt="" coords="5,5,157,32"/>
+</map>

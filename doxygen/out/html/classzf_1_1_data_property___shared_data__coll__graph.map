@@ -1,0 +1,8 @@
+<map id="zf::DataProperty_SharedData" name="zf::DataProperty_SharedData">
+<area shape="rect" id="node1" title="Данные для DataProperty." alt="" coords="158,185,369,212"/>
+<area shape="rect" id="node2" href="$classzf_1_1_property_i_d.html" title="Идентификатор свойства данных" alt="" coords="5,81,116,108"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i_d___wrapper.html" title="Базовый класс для всех целочисленных идентификаторов" alt="" coords="69,5,186,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_entity_code.html" title="Код сущности" alt="" coords="145,81,257,108"/>
+<area shape="rect" id="node5" href="$classzf_1_1_uid.html" title="Универсальный идентификатор" alt="" coords="288,81,351,108"/>
+<area shape="rect" id="node6" href="$classzf_1_1_row_i_d.html" title="Идентификатор строки набора данных Есть два основных вида идентификаторов: 1) основанный на реальном ..." alt="" coords="378,81,461,108"/>
+</map>

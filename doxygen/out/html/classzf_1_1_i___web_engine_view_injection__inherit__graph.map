@@ -1,0 +1,4 @@
+<map id="zf::I_WebEngineViewInjection" name="zf::I_WebEngineViewInjection">
+<area shape="rect" id="node1" title="Интерфейс для перехвата событий на веб странице" alt="" coords="5,5,217,32"/>
+<area shape="rect" id="node2" href="$classzf_1_1_web_engine_view_injection.html" title="Базовый класс для перехвата событий на веб странице" alt="" coords="11,80,212,107"/>
+</map>

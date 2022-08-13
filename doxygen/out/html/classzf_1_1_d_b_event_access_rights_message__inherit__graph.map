@@ -1,0 +1,5 @@
+<map id="zf::DBEventAccessRightsMessage" name="zf::DBEventAccessRightsMessage">
+<area shape="rect" id="node1" title="Информация запрос о правах доступа к сущностям (MessageType::DBEventAccessRights) Ответ на команду DB..." alt="" coords="5,155,247,181"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="77,80,175,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="31,5,221,32"/>
+</map>

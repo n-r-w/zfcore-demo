@@ -1,0 +1,4 @@
+<map id="ModelService::Service" name="ModelService::Service">
+<area shape="rect" id="node1" title="Управление запросами к моделям Асинхронные методы возвращают идентификатор сообщения." alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i___external_request.html" title="Интерфейс для установки делегата со спецификой внешнего сервиса Класс, который реализует данный интер..." alt="" coords="9,5,168,32"/>
+</map>

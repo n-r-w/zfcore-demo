@@ -1,0 +1,22 @@
+<map id="zf::SelectionProxyItemModel" name="zf::SelectionProxyItemModel">
+<area shape="rect" id="node1" title="Прокси модель, для организации головных и подчиненных наборов данных" alt="" coords="1505,125,1713,152"/>
+<area shape="rect" id="node2" href="$classzf_1_1_leaf_filter_proxy_model.html" title="Фильтрация древовидных item&#45;моделей" alt="" coords="903,5,1081,32"/>
+<area shape="rect" id="node19" href="$classzf_1_1_proxy_item_model.html" title="Прокси модель, для организации головных и подчиненных наборов данных" alt="" coords="1165,52,1313,79"/>
+<area shape="rect" id="node3" href="$classzf_1_1_data_filter.html" title="Фильтрация и сортировка данных ModuleDataObject." alt="" coords="1187,103,1292,129"/>
+<area shape="rect" id="node4" href="$classzf_1_1_i___data_filter.html" title="Интерфейс фильтрации и сортировки" alt="" coords="934,64,1050,91"/>
+<area shape="rect" id="node5" href="$classzf_1_1_view.html" title="Базовый класс для создания визуальной части модуля" alt="" coords="1203,153,1276,180"/>
+<area shape="rect" id="node6" href="$classzf_1_1_entity_object.html" title="Сущность" alt="" coords="931,115,1053,141"/>
+<area shape="rect" id="node7" href="$classzf_1_1_module_data_object.html" title="Базовый класс для классов, которые входят в модуль и имеют свои данные" alt="" coords="665,115,828,141"/>
+<area shape="rect" id="node8" href="$classzf_1_1_module_object.html" title="Базовый класс для классов, которые входят в модуль" alt="" coords="443,13,574,40"/>
+<area shape="rect" id="node9" href="$classzf_1_1_progress_object.html" title="Базовый класс отслеживающий состояние прогресса Прогресс имеет стек вызовов." alt="" coords="213,13,352,40"/>
+<area shape="rect" id="node10" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="5,13,164,40"/>
+<area shape="rect" id="node11" href="$classzf_1_1_i___hashed_dataset_cutomize.html" title="Интерфейс для кастомизации HashedDataset." alt="" coords="401,64,616,91"/>
+<area shape="rect" id="node12" href="$classzf_1_1_i___highlight_view.html" title="Интерфейс для HighlightView." alt="" coords="437,115,580,141"/>
+<area shape="rect" id="node13" href="$classzf_1_1_i___highlight_processor.html" title="Внешняя обработка ошибок из HighlightProcessor." alt="" coords="421,165,596,192"/>
+<area shape="rect" id="node14" href="$classzf_1_1_i___highlight_processor_key_values.html" title="Внешняя обработка ошибок из HighlightProcessor. Обработка ключевых значений" alt="" coords="421,217,596,258"/>
+<area shape="rect" id="node15" href="$classzf_1_1_i___condition_filter.html" title="Интерфейс фильтрации на основании условий для указанного набора данных" alt="" coords="919,165,1065,192"/>
+<area shape="rect" id="node16" href="$classzf_1_1_i___dataset_visible_info.html" title="Интерфейс для преобразования значений наборов данных" alt="" coords="906,216,1078,243"/>
+<area shape="rect" id="node17" href="$classzf_1_1_i___data_widgets_lookup_models.html" title="Интерфейс для получения информации о списке значений PropertyLookup в случае, если не задана сущность..." alt="" coords="877,267,1107,293"/>
+<area shape="rect" id="node18" href="$classzf_1_1_data_property.html" title="Свойство." alt="" coords="1176,204,1303,231"/>
+<area shape="rect" id="node20" href="$classzf_1_1_i___cell_column_check.html" title="Интерфейс для унификации доступа к управлению чекбоксами ячеек TableView/TreeView." alt="" coords="1156,256,1323,283"/>
+</map>

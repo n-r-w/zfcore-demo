@@ -1,0 +1,10 @@
+<map id="ModelService::InternalRequestInfo" name="ModelService::InternalRequestInfo">
+<area shape="rect" id="node1" title="Инофрмация о запросах" alt="" coords="821,133,1068,160"/>
+<area shape="rect" id="node2" href="$structzf_1_1_model_service_lookup_request_options.html" title="Параметры Lookup запроса к CoreUids::MODEL_SERVICE." alt="" coords="452,42,680,83"/>
+<area shape="rect" id="node3" href="$classzf_1_1_uid.html" title="Универсальный идентификатор" alt="" coords="196,5,259,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_property_i_d.html" title="Идентификатор свойства данных" alt="" coords="172,95,283,121"/>
+<area shape="rect" id="node5" href="$classzf_1_1_i_d___wrapper.html" title="Базовый класс для всех целочисленных идентификаторов" alt="" coords="5,95,123,121"/>
+<area shape="rect" id="node6" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="487,108,645,135"/>
+<area shape="rect" id="node7" href="$classzf_1_1_message_i_d.html" title="Идентификатор сообщения (на базе QString)" alt="" coords="509,159,623,185"/>
+<area shape="rect" id="node8" href="$classzf_1_1_data_property.html" title="Свойство." alt="" coords="503,231,629,257"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="zf::CoreUids" name="zf::CoreUids">
+<area shape="rect" id="node1" title="Зарезервированные идентификаторы" alt="" coords="142,376,242,403"/>
+<area shape="rect" id="node2" href="$classzf_1_1_entity_code.html" title="Код сущности" alt="" coords="8,81,120,108"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i_d___wrapper.html" title="Базовый класс для всех целочисленных идентификаторов" alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_uid.html" title="Универсальный идентификатор" alt="" coords="290,81,353,108"/>
+</map>

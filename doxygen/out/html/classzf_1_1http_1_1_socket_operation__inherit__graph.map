@@ -1,0 +1,4 @@
+<map id="zf::http::SocketOperation" name="zf::http::SocketOperation">
+<area shape="rect" id="node1" title="Запись в сокет по частям" alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$classzf_1_1http_1_1_socket_writer.html" title="Запись в сокет по частям" alt="" coords="17,80,176,107"/>
+</map>

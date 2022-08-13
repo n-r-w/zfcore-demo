@@ -1,0 +1,4 @@
+<map id="zf::Money" name="zf::Money">
+<area shape="rect" id="node1" title="Деньги" alt="" coords="11,80,96,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_numeric.html" title="Число с фиксированной точкой" alt="" coords="5,5,101,32"/>
+</map>

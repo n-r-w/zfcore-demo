@@ -1,0 +1,6 @@
+<map id="zf::ModelServiceLookupRequestOptions" name="zf::ModelServiceLookupRequestOptions">
+<area shape="rect" id="node1" title="Параметры Lookup запроса к CoreUids::MODEL_SERVICE." alt="" coords="5,215,233,256"/>
+<area shape="rect" id="node2" href="$classzf_1_1_uid.html" title="Универсальный идентификатор" alt="" coords="13,81,76,108"/>
+<area shape="rect" id="node3" href="$classzf_1_1_property_i_d.html" title="Идентификатор свойства данных" alt="" coords="140,81,251,108"/>
+<area shape="rect" id="node4" href="$classzf_1_1_i_d___wrapper.html" title="Базовый класс для всех целочисленных идентификаторов" alt="" coords="137,5,254,32"/>
+</map>

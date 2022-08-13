@@ -1,0 +1,4 @@
+<map id="zf::I_DataWidgetsLookupModels" name="zf::I_DataWidgetsLookupModels">
+<area shape="rect" id="node1" title="Интерфейс для получения информации о списке значений PropertyLookup в случае, если не задана сущность..." alt="" coords="5,5,235,32"/>
+<area shape="rect" id="node2" href="$classzf_1_1_view.html" title="Базовый класс для создания визуальной части модуля" alt="" coords="83,80,157,107"/>
+</map>

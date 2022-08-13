@@ -1,0 +1,5 @@
+<map id="zf::ScriptView" name="zf::ScriptView">
+<area shape="rect" id="node1" title="Отображение скрипта. ВАЖНО: не модифицировать скрипт после создания данного объекта!" alt="" coords="29,155,140,181"/>
+<area shape="rect" id="node2" href="$classzf_1_1_dialog.html" title="Базовый класс всех модальных диалогов" alt="" coords="43,80,126,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="5,5,164,32"/>
+</map>

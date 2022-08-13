@@ -1,0 +1,5 @@
+<map id="zf::HighlightProcessor" name="zf::HighlightProcessor">
+<area shape="rect" id="node1" title="Реализация обработки реакции на изменение данных и заполнения модели ошибок" alt="" coords="137,80,299,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i___hashed_dataset_cutomize.html" title="Интерфейс для кастомизации HashedDataset." alt="" coords="5,5,220,32"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="244,5,403,32"/>
+</map>

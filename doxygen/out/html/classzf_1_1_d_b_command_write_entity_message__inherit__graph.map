@@ -1,0 +1,5 @@
+<map id="zf::DBCommandWriteEntityMessage" name="zf::DBCommandWriteEntityMessage">
+<area shape="rect" id="node1" title="Записать сущности в БД (MessageType::DBCommandWriteEntity) Ответ: ConfirmMessage. Содержит в data() Q..." alt="" coords="5,155,205,196"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="56,80,155,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="11,5,200,32"/>
+</map>

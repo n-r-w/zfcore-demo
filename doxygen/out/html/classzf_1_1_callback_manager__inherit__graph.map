@@ -1,0 +1,4 @@
+<map id="zf::CallbackManager" name="zf::CallbackManager">
+<area shape="rect" id="node1" title="Реализует механизм последовательных обратных вызовов через встроенный таймер Необходим для синхрониза..." alt="" coords="7,80,162,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="5,5,164,32"/>
+</map>

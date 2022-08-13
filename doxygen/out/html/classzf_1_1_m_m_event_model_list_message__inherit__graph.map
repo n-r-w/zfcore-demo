@@ -1,0 +1,6 @@
+<map id="zf::MMEventModelListMessage" name="zf::MMEventModelListMessage">
+<area shape="rect" id="node1" title="Список моделей вида std::shared_ptr&lt;Model&gt; (MessageType::MMEventModelList) Ответ на MMCommandGetModel..." alt="" coords="5,229,228,256"/>
+<area shape="rect" id="node2" href="$classzf_1_1_model_list_message.html" title="Базовый класс для сообщений, содержащих список моделей" alt="" coords="35,155,198,181"/>
+<area shape="rect" id="node3" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="67,80,166,107"/>
+<area shape="rect" id="node4" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="22,5,211,32"/>
+</map>

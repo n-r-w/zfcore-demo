@@ -1,0 +1,4 @@
+<map id="zf::ItemDelegate" name="zf::ItemDelegate">
+<area shape="rect" id="node1" title="Базовый делегат для ячеек таблиц и деревьев" alt="" coords="19,80,149,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_hint_item_delegate.html" title="Умеет отображать всплывающую подсказку, если текст не помещается в ячейку" alt="" coords="5,5,163,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classzf_1_1thread_1_1_worker.html" title="Класс задачи (выполняет некий расчет) В процессе расчета (или до его начала) может принимать запросы ..." alt="" coords="5,13,141,39"/>
+<area shape="rect" id="node2" href="$classzf_1_1http_1_1_rest_connection_worker.html" title="Соединение с клиентом. Активно только на время открытго сокета" alt="" coords="189,5,367,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="zf::ItemSelectorMemo" name="zf::ItemSelectorMemo">
+<area shape="rect" id="node1" title="Внутренний контрол для отображения многострочных значений" alt="" coords="59,171,224,197"/>
+<area shape="rect" id="node2" href="$classzf_1_1_plain_text_edit.html" title="В дополнение к стандартному QPlainTextEdit, умеет динамически менять высоту в зависимости от содержим..." alt="" coords="5,81,131,108"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="62,5,221,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_item_selector.html" title="Виджет выбора из списка (справочника) Может работать в нескольких режимах:" alt="" coords="155,81,279,108"/>
+</map>

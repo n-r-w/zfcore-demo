@@ -1,0 +1,6 @@
+<map id="zf::DBEventEntityRemovedMessage" name="zf::DBEventEntityRemovedMessage">
+<area shape="rect" id="node1" title="Сущность удалена (MessageType::DBEventEntityRemoved)" alt="" coords="5,244,203,285"/>
+<area shape="rect" id="node2" href="$classzf_1_1_d_b_event_entity_related_message.html" title="Что&#45;то произошло с сущностью. Базовый класс для соответсвующих сообщений" alt="" coords="11,155,197,196"/>
+<area shape="rect" id="node3" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="55,80,153,107"/>
+<area shape="rect" id="node4" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="9,5,199,32"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="zf::I_MessageContainsUid" name="zf::I_MessageContainsUid">
+<area shape="rect" id="node1" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="5,1352,195,1379"/>
+<area shape="rect" id="node2" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="243,1352,341,1379"/>
+<area shape="rect" id="node3" href="$classzf_1_1_bool_message.html" title="Сообщение логического типа (MessageType:Bool)" alt="" coords="455,5,583,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_broadcast_message.html" title="Широковещательное сообщение" alt="" coords="437,56,601,83"/>
+<area shape="rect" id="node5" href="$classzf_1_1_byte_array_list_message.html" title="Список QByteArray (MessageType:ByteArrayList)" alt="" coords="426,107,613,133"/>
+<area shape="rect" id="node6" href="$classzf_1_1_confirm_message.html" title="Ответ от сервера с подтверждением выполнения. Для команд, не требующих дополнительной информации (Mes..." alt="" coords="444,157,595,184"/>
+<area shape="rect" id="node7" href="$classzf_1_1_d_b_command_generate_report_message.html" title="Запрос генерации отчета (MessageType:DBCommandGenerateReport)" alt="" coords="404,209,635,250"/>
+<area shape="rect" id="node8" href="$classzf_1_1_d_b_command_get_access_rights_message.html" title="Запрос прав доступа (MessageType::DBCommandGetAccessRights) Передается набор идентификаторов,..." alt="" coords="401,274,637,315"/>
+<area shape="rect" id="node9" href="$classzf_1_1_d_b_command_get_catalog_info_message.html" title="Получить информацию о структуре каталога (MessageType::DBCommandGetCatalogInfo) Ответ: DBEventCatalog..." alt="" coords="407,339,632,381"/>
+<area shape="rect" id="node10" href="$classzf_1_1_d_b_command_get_connection_information_message.html" title="Получить информацию о подключении к БД (MessageType::DBCommandGetConnectionInformation) Ответ: DBEven..." alt="" coords="408,405,631,446"/>
+<area shape="rect" id="node11" href="$classzf_1_1_d_b_command_get_data_table_info_message.html" title="Сообщение драйверу с запросом информации о таблице" alt="" coords="412,470,627,511"/>
+<area shape="rect" id="node12" href="$classzf_1_1_d_b_command_get_data_table_message.html" title="Запрос выборки из таблицы сервера. Ответ: DBEventDataTableMessage." alt="" coords="412,535,627,577"/>
+<area shape="rect" id="node13" href="$classzf_1_1_d_b_command_get_entity_list_message.html" title="Получить идентификаторы сущностей указанного вида из БД (MessageType::DBCommandGetEntityList) Ответ: ..." alt="" coords="414,601,625,642"/>
+<area shape="rect" id="node14" href="$classzf_1_1_d_b_command_get_entity_message.html" title="Получить сущности из БД (MessageType::DBCommandGetEntity) Ответ: DBEventEntityLoadedMessage." alt="" coords="396,667,643,693"/>
+<area shape="rect" id="node15" href="$classzf_1_1_d_b_command_get_property_table_message.html" title="Получить таблицу со свойств сущностей указанного вида из БД (DBCommandGetPropertyTable) Ответ: DBEven..." alt="" coords="417,718,622,759"/>
+<area shape="rect" id="node16" href="$classzf_1_1_d_b_command_login_message.html" title="Запрос подключения к БД (MessageType::DBCommandLogin) Ответ: DBEventLoginMessage." alt="" coords="409,784,629,811"/>
+<area shape="rect" id="node17" href="$classzf_1_1_d_b_command_query_message.html" title="Произвольный запрос к менеджеру БД (MessageType::DBCommandQuery) Ответ: DBEventQueryFeedbackMessage." alt="" coords="407,835,631,861"/>
+<area shape="rect" id="node18" href="$classzf_1_1_d_b_command_reconnect_message.html" title="Переподключиться к серверу" alt="" coords="393,885,646,912"/>
+<area shape="rect" id="node19" href="$classzf_1_1_d_b_command_update_entities_message.html" title="Массовое обновление данных (MessageType::DBCommandUpdateEntities) Ответ: ConfirmMessage или ErrorMess..." alt="" coords="408,937,631,978"/>
+<area shape="rect" id="node20" href="$classzf_1_1_d_b_command_write_entity_message.html" title="Записать сущности в БД (MessageType::DBCommandWriteEntity) Ответ: ConfirmMessage. Содержит в data() Q..." alt="" coords="419,1002,619,1043"/>
+<area shape="rect" id="node21" href="$classzf_1_1_d_b_event_access_rights_message.html" title="Информация запрос о правах доступа к сущностям (MessageType::DBEventAccessRights) Ответ на команду DB..." alt="" coords="399,1068,640,1095"/>
+<area shape="rect" id="node22" href="$classzf_1_1_d_b_event_catalog_info_message.html" title="Отклик сервера на запрос о структуре каталога (MessageType::DBEventCatalogInfo) Ответ на команду DBCo..." alt="" coords="404,1119,635,1145"/>
+<area shape="rect" id="node23" href="$classzf_1_1_d_b_event_connection_done_message.html" title="Драйвер БД информирует что соединение с сервером выполнено (MessageType::DBEventConnectionDone) Автом..." alt="" coords="417,1170,621,1211"/>
+<area shape="rect" id="node24" href="$classzf_1_1_d_b_event_connection_information_message.html" title="Информация от сервера о подключении к БД (MessageType::DBEventConnectionInformation) Может быть как о..." alt="" coords="396,1235,643,1277"/>
+<area shape="rect" id="node25" href="$classzf_1_1_d_b_event_data_table_message.html" title="Результат запроса на выборку из таблицы сервера (в ответ на DBCommandGetDataTableMessage)" alt="" coords="409,1301,629,1328"/>
+<area shape="rect" id="node26" href="$classzf_1_1_d_b_event_entity_exists_message.html" title="Информация о том, существуют ли такие сущности (MessageType::DBEventEntityExists) Ответ на команду DB..." alt="" coords="403,1352,635,1379"/>
+<area shape="rect" id="node27" href="$classzf_1_1_d_b_event_entity_loaded_message.html" title="Загружены сущности (MessageType::DBEventEntityLoaded) Ответ на команду DBCommandGetEntityMessage." alt="" coords="399,1403,639,1429"/>
+<area shape="rect" id="node28" href="$classzf_1_1_d_b_event_entity_related_message.html" title="Что&#45;то произошло с сущностью. Базовый класс для соответсвующих сообщений" alt="" coords="427,1454,612,1495"/>
+<area shape="rect" id="node29" href="$classzf_1_1_d_b_event_information_message.html" title="Некое информационное текстовое сообщение от сервера (MessageType::DBEventInformation) Автоматически р..." alt="" coords="404,1520,635,1547"/>
+<area shape="rect" id="node30" href="$classzf_1_1_d_b_event_init_load_done_message.html" title="Драйвер БД информирует что закончена начальная инициализация (подгрузка справочников и т...." alt="" coords="399,1571,640,1597"/>
+<area shape="rect" id="node31" href="$classzf_1_1_d_b_event_login_message.html" title="Отклик сервера на запрос о структуре каталога (MessageType::DBEventLogin) Ответ на команду DBCommandL..." alt="" coords="424,1621,615,1648"/>
+<area shape="rect" id="node32" href="$classzf_1_1_d_b_event_property_table_message.html" title="Таблица свойств сущностей указанного вида (MessageType::DBEventPropertyTable) Ответ на команду DBComm..." alt="" coords="426,1673,613,1714"/>
+<area shape="rect" id="node33" href="$classzf_1_1_d_b_event_query_feedback_message.html" title="Отклик сервера на произвольный запрос (MessageType::DBEventQueryFeedback) Ответ на команду DBCommandQ..." alt="" coords="420,1738,619,1779"/>
+<area shape="rect" id="node34" href="$classzf_1_1_d_b_event_report_message.html" title="Готовый отчет в ответ на DBCommandGenerateReportMessage (MessageType:DBEventReport)" alt="" coords="420,1804,619,1831"/>
+<area shape="rect" id="node35" href="$classzf_1_1_d_b_event_table_info_message.html" title="Ответ драйвера на запрос информации о таблице" alt="" coords="412,1855,627,1881"/>
+<area shape="rect" id="node36" href="$classzf_1_1_entity_uid_list_message.html" title="Базовый класс для сообщений, содержащих список идентификаторов сущностей" alt="" coords="428,1905,611,1932"/>
+<area shape="rect" id="node37" href="$classzf_1_1_error_message.html" title="Сообщение с ошибкой (MessageType::Error)" alt="" coords="454,1956,585,1983"/>
+<area shape="rect" id="node38" href="$classzf_1_1_external_request_message.html" title="Сообщение для отправки результата запроса через I_ExternalRequest::requestLookup." alt="" coords="416,2007,623,2033"/>
+<area shape="rect" id="node39" href="$classzf_1_1_int_list_message.html" title="Список int (MessageType:IntList)" alt="" coords="450,2057,589,2084"/>
+<area shape="rect" id="node40" href="$classzf_1_1_int_table_message.html" title="IntTable (MessageType:IntTable)" alt="" coords="444,2108,595,2135"/>
+<area shape="rect" id="node41" href="$classzf_1_1_m_m_command_get_catalog_value_message.html" title="Команда на получение значения из каталога (MessageType::MMCommandGetCatalogValue) Ответ: MMCommandGet..." alt="" coords="399,2159,640,2201"/>
+<area shape="rect" id="node42" href="$classzf_1_1_m_m_command_get_entity_names_message.html" title="Команда на получение имен сущностей (MessageType::MMCommandGetEntityNames) Ответ: MMEventEntityNamesM..." alt="" coords="400,2225,639,2266"/>
+<area shape="rect" id="node43" href="$classzf_1_1_m_m_command_get_models_message.html" title="Вернуть список загруженных моделей (MessageType::MMCommandGetModels) Ответ от менеджера: MMEventModel..." alt="" coords="389,2291,649,2317"/>
+<area shape="rect" id="node44" href="$classzf_1_1_m_m_command_remove_models_message.html" title="Команда на удаление моделей (MessageType::MMCommandRemoveModels) Ответ: ConfirmMessage Отправка этого..." alt="" coords="403,2342,636,2383"/>
+<area shape="rect" id="node45" href="$classzf_1_1_m_m_event_catalog_value_message.html" title="Значение из каталога (MessageType::MMEventCatalogValue) Ответ на MMCommandGetCatalogValueMessage." alt="" coords="396,2408,643,2435"/>
+<area shape="rect" id="node46" href="$classzf_1_1_m_m_event_entity_names_message.html" title="Имена сущностей (MessageType::MMCommandGetEntityNames) Ответ на MMCommandGetEntityNamesMessage." alt="" coords="397,2459,641,2485"/>
+<area shape="rect" id="node47" href="$classzf_1_1_message_critical_error.html" title="Критическая ошибка" alt="" coords="431,2509,607,2536"/>
+<area shape="rect" id="node48" href="$classzf_1_1_message_update_status_bar.html" title="Обновить статус бар" alt="" coords="415,2560,624,2587"/>
+<area shape="rect" id="node49" href="$classzf_1_1_model_list_message.html" title="Базовый класс для сообщений, содержащих список моделей" alt="" coords="438,2611,601,2637"/>
+</map>

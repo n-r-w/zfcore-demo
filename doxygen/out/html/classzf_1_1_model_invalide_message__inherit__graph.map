@@ -1,0 +1,6 @@
+<map id="zf::ModelInvalideMessage" name="zf::ModelInvalideMessage">
+<area shape="rect" id="node1" title="Данные модели стали невалидными. Сообщения, рассылается моделями в канал CoreChannels::MODEL_INVALIDA..." alt="" coords="5,229,196,256"/>
+<area shape="rect" id="node2" href="$classzf_1_1_entity_uid_list_message.html" title="Базовый класс для сообщений, содержащих список идентификаторов сущностей" alt="" coords="9,155,192,181"/>
+<area shape="rect" id="node3" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="51,80,150,107"/>
+<area shape="rect" id="node4" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="6,5,195,32"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="zf::I_ObjectExtension" name="zf::I_ObjectExtension">
+<area shape="rect" id="node1" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="5,588,164,615"/>
+<area shape="rect" id="node2" href="$class_model_service_1_1_worker_object.html" title="Класс для взаимодействия с Worker через сигналы/слоты" alt="" coords="217,5,422,32"/>
+<area shape="rect" id="node3" href="$classzf_1_1_callback_manager.html" title="Реализует механизм последовательных обратных вызовов через встроенный таймер Необходим для синхрониза..." alt="" coords="242,56,397,83"/>
+<area shape="rect" id="node4" href="$classzf_1_1_command_processor.html" title="Класс для упрощения работы с очередями команд: ModuleCommands::CommandKey." alt="" coords="234,107,405,133"/>
+<area shape="rect" id="node5" href="$classzf_1_1_data_widgets.html" title="Виджеты, автоматически сгенерированные по DataStructure, и связанные с DataContainer." alt="" coords="257,157,382,184"/>
+<area shape="rect" id="node6" href="$classzf_1_1_database_driver_worker.html" title="Базовый класс для обработчика команд драйвера БД" alt="" coords="225,208,413,235"/>
+<area shape="rect" id="node7" href="$classzf_1_1_database_manager.html" title="Обертка вокруг драйвера БД" alt="" coords="239,259,399,285"/>
+<area shape="rect" id="node8" href="$classzf_1_1_dialog.html" title="Базовый класс всех модальных диалогов" alt="" coords="278,309,361,336"/>
+<area shape="rect" id="node15" href="$classzf_1_1_entity_name_widget.html" title="Виджет, который отображает имя объекта" alt="" coords="237,360,401,387"/>
+<area shape="rect" id="node16" href="$classzf_1_1_external_requester.html" title="Класс для управления запросами к внешним сервисам на уровне сигналов/слотов Qt." alt="" coords="239,411,400,437"/>
+<area shape="rect" id="node17" href="$classzf_1_1_highlight_processor.html" title="Реализация обработки реакции на изменение данных и заполнения модели ошибок" alt="" coords="238,461,401,488"/>
+<area shape="rect" id="node18" href="$classzf_1_1_highlight_view.html" title="Отображение модели ошибок" alt="" coords="253,512,385,539"/>
+<area shape="rect" id="node19" href="$classzf_1_1_hightlight_view_controller.html" title="Класс для координации поведения виджетов и панели ошибок" alt="" coords="219,563,420,589"/>
+<area shape="rect" id="node20" href="$classzf_1_1_item_selector.html" title="Виджет выбора из списка (справочника) Может работать в нескольких режимах:" alt="" coords="257,613,381,640"/>
+<area shape="rect" id="node21" href="$classzf_1_1_main_window.html" title="Главное окно" alt="" coords="257,664,382,691"/>
+<area shape="rect" id="node22" href="$classzf_1_1_message_dispatcher.html" title="Использование диспетчера сообщений Глобальный объект: Core::messageDispatcher()" alt="" coords="235,715,404,741"/>
+<area shape="rect" id="node23" href="$classzf_1_1_message_processor.html" title="Класс для упрощения ожидания ответа на асинхронные сообщения Вместо того, чтобы запоминать id отправл..." alt="" coords="238,765,401,792"/>
+<area shape="rect" id="node24" href="$classzf_1_1_model_keeper.html" title="Класс предназначен для централизованного хранения списков моделей, чтобы они не сбрасывались когда сч..." alt="" coords="256,816,383,843"/>
+<area shape="rect" id="node25" href="$classzf_1_1_operation_menu_manager.html" title="Менеджер меню" alt="" coords="220,867,419,893"/>
+<area shape="rect" id="node26" href="$classzf_1_1_plain_text_edit.html" title="В дополнение к стандартному QPlainTextEdit, умеет динамически менять высоту в зависимости от содержим..." alt="" coords="257,917,382,944"/>
+<area shape="rect" id="node28" href="$classzf_1_1_progress_object.html" title="Базовый класс отслеживающий состояние прогресса Прогресс имеет стек вызовов." alt="" coords="250,968,389,995"/>
+<area shape="rect" id="node33" href="$classzf_1_1_request_selector.html" title="Выбор из списка, который получается в результате запроса к внешнему сервису" alt="" coords="246,1019,393,1045"/>
+<area shape="rect" id="node34" href="$classzf_1_1_shared_object_manager.html" title="Базовый абстрактный класс для менеджера разделяемых объектов" alt="" coords="227,1069,412,1096"/>
+<area shape="rect" id="node36" href="$classzf_1_1_widget_highligter_controller.html" title="Реация на изменение в списке ошибок и передача их в WidgetHighlighter." alt="" coords="212,1120,427,1147"/>
+<area shape="rect" id="node37" href="$classzf_1_1thread_1_1_worker_object.html" title="Класс для взаимодействия с Worker через сигналы/слоты" alt="" coords="230,1171,409,1197"/>
+<area shape="rect" id="node9" href="$classzf_1_1_highlight_dialog.html" title="Базовый диалог с панелью ошибок." alt="" coords="501,183,644,209"/>
+<area shape="rect" id="node10" href="$classzf_1_1_log_dialog.html" title="Диалог для отображения журнала" alt="" coords="519,233,626,260"/>
+<area shape="rect" id="node11" href="$classzf_1_1_note_dialog.html" title="Диалог с одним мемо полем" alt="" coords="515,284,630,311"/>
+<area shape="rect" id="node12" href="$classzf_1_1_script_view.html" title="Отображение скрипта. ВАЖНО: не модифицировать скрипт после создания данного объекта!" alt="" coords="517,335,628,361"/>
+<area shape="rect" id="node13" href="$classzf_1_1_select_from_model_dialog.html" title="Диалог выбора элемента из модели Если в плагине определено представление, то оно будет использовано д..." alt="" coords="475,385,671,412"/>
+<area shape="rect" id="node14" href="$classzf_1_1_wizard_dialog.html" title="Диалог мастера" alt="" coords="509,436,637,463"/>
+<area shape="rect" id="node27" href="$classzf_1_1_item_selector_memo.html" title="Внутренний контрол для отображения многострочных значений" alt="" coords="490,917,655,944"/>
+<area shape="rect" id="node29" href="$classzf_1_1_module_object.html" title="Базовый класс для классов, которые входят в модуль" alt="" coords="507,968,638,995"/>
+<area shape="rect" id="node30" href="$classzf_1_1_module_data_object.html" title="Базовый класс для классов, которые входят в модуль и имеют свои данные" alt="" coords="719,968,881,995"/>
+<area shape="rect" id="node31" href="$classzf_1_1_entity_object.html" title="Сущность" alt="" coords="929,968,1051,995"/>
+<area shape="rect" id="node32" href="$classzf_1_1_view.html" title="Базовый класс для создания визуальной части модуля" alt="" coords="1099,968,1172,995"/>
+<area shape="rect" id="node35" href="$classzf_1_1_model_manager.html" title="Создание и кэширование моделей" alt="" coords="503,1069,642,1096"/>
+<area shape="rect" id="node38" href="$classzf_1_1http_1_1_rest_connection_worker_object.html" title="Класс для взаимодействия с RestConnectionWorker через сигналы/слоты" alt="" coords="484,1163,661,1205"/>
+</map>

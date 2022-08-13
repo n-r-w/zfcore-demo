@@ -1,0 +1,6 @@
+<map id="zf::TableView" name="zf::TableView">
+<area shape="rect" id="node1" title="Таблица с иерархическим заголовком" alt="" coords="161,155,267,181"/>
+<area shape="rect" id="node2" href="$classzf_1_1_table_view_base.html" title="Таблица с иерархическим заголовком, базовая для основной и фиксированной таблицы" alt="" coords="145,80,283,107"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___item_delegate_check_info.html" title="Интерфейс для отображения чекбокса в делегате" alt="" coords="5,5,212,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_i___cell_column_check.html" title="Интерфейс для унификации доступа к управлению чекбоксами ячеек TableView/TreeView." alt="" coords="236,5,403,32"/>
+</map>

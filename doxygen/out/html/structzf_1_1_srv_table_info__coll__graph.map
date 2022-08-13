@@ -1,0 +1,4 @@
+<map id="zf::SrvTableInfo" name="zf::SrvTableInfo">
+<area shape="rect" id="node1" title="Информация о таблице" alt="" coords="5,95,127,121"/>
+<area shape="rect" id="node2" href="$classzf_1_1_table_i_d.html" title="Базовый класс идентификатора таблиц. Не завязан на конкретные id таблиц, т.к. ядро ничего не должно з..." alt="" coords="21,5,111,32"/>
+</map>

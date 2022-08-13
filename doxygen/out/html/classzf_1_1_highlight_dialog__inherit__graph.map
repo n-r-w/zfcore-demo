@@ -1,0 +1,9 @@
+<map id="zf::HighlightDialog" name="zf::HighlightDialog">
+<area shape="rect" id="node1" title="Базовый диалог с панелью ошибок." alt="" coords="475,107,617,133"/>
+<area shape="rect" id="node2" href="$classzf_1_1_dialog.html" title="Базовый класс всех модальных диалогов" alt="" coords="278,5,361,32"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_i___highlight_view.html" title="Интерфейс для HighlightView." alt="" coords="248,56,391,83"/>
+<area shape="rect" id="node5" href="$classzf_1_1_i___highlight_processor.html" title="Внешняя обработка ошибок из HighlightProcessor." alt="" coords="232,107,407,133"/>
+<area shape="rect" id="node6" href="$classzf_1_1_i___hashed_dataset_cutomize.html" title="Интерфейс для кастомизации HashedDataset." alt="" coords="212,157,427,184"/>
+<area shape="rect" id="node7" href="$classzf_1_1_i___highlight_processor_key_values.html" title="Внешняя обработка ошибок из HighlightProcessor. Обработка ключевых значений" alt="" coords="232,209,407,250"/>
+</map>

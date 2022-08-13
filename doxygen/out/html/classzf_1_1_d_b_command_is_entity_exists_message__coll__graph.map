@@ -1,0 +1,6 @@
+<map id="zf::DBCommandIsEntityExistsMessage" name="zf::DBCommandIsEntityExistsMessage">
+<area shape="rect" id="node1" title="Существуют ли такие сущности в БД (MessageType::DBCommandIsEntityExists) Ответ: DBEventEntityExistsMe..." alt="" coords="5,229,220,271"/>
+<area shape="rect" id="node2" href="$classzf_1_1_entity_uid_list_message.html" title="Базовый класс для сообщений, содержащих список идентификаторов сущностей" alt="" coords="21,155,204,181"/>
+<area shape="rect" id="node3" href="$classzf_1_1_message.html" title="Класс для универсальных сообщений" alt="" coords="63,80,162,107"/>
+<area shape="rect" id="node4" href="$classzf_1_1_i___message_contains_uid.html" title="Служебный интерфейс для реализации аогоритма поиска идентификаторов" alt="" coords="18,5,207,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="zf::I_DatasetVisibleInfo" name="zf::I_DatasetVisibleInfo">
+<area shape="rect" id="node1" title="Интерфейс для преобразования значений наборов данных" alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node2" href="$classzf_1_1_view.html" title="Базовый класс для создания визуальной части модуля" alt="" coords="55,80,128,107"/>
+</map>

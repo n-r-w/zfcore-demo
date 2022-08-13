@@ -1,0 +1,5 @@
+<map id="zf::ProgressObject::Progress" name="zf::ProgressObject::Progress">
+<area shape="rect" id="node1" title="Данные из стека прогресса" alt="" coords="15,171,154,212"/>
+<area shape="rect" id="node2" href="$classzf_1_1_progress_object.html" title="Базовый класс отслеживающий состояние прогресса Прогресс имеет стек вызовов." alt="" coords="15,81,154,108"/>
+<area shape="rect" id="node3" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="5,5,164,32"/>
+</map>

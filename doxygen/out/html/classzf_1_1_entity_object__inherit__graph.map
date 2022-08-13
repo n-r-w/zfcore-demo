@@ -1,0 +1,12 @@
+<map id="zf::EntityObject" name="zf::EntityObject">
+<area shape="rect" id="node1" title="Сущность" alt="" coords="872,107,993,133"/>
+<area shape="rect" id="node10" href="$classzf_1_1_view.html" title="Базовый класс для создания визуальной части модуля" alt="" coords="1041,107,1115,133"/>
+<area shape="rect" id="node2" href="$classzf_1_1_module_data_object.html" title="Базовый класс для классов, которые входят в модуль и имеют свои данные" alt="" coords="661,107,824,133"/>
+<area shape="rect" id="node3" href="$classzf_1_1_module_object.html" title="Базовый класс для классов, которые входят в модуль" alt="" coords="441,5,571,32"/>
+<area shape="rect" id="node4" href="$classzf_1_1_progress_object.html" title="Базовый класс отслеживающий состояние прогресса Прогресс имеет стек вызовов." alt="" coords="212,5,351,32"/>
+<area shape="rect" id="node5" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node6" href="$classzf_1_1_i___hashed_dataset_cutomize.html" title="Интерфейс для кастомизации HashedDataset." alt="" coords="399,56,613,83"/>
+<area shape="rect" id="node7" href="$classzf_1_1_i___highlight_view.html" title="Интерфейс для HighlightView." alt="" coords="435,107,577,133"/>
+<area shape="rect" id="node8" href="$classzf_1_1_i___highlight_processor.html" title="Внешняя обработка ошибок из HighlightProcessor." alt="" coords="419,157,593,184"/>
+<area shape="rect" id="node9" href="$classzf_1_1_i___highlight_processor_key_values.html" title="Внешняя обработка ошибок из HighlightProcessor. Обработка ключевых значений" alt="" coords="419,209,593,250"/>
+</map>

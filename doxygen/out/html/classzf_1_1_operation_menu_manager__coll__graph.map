@@ -1,0 +1,4 @@
+<map id="zf::OperationMenuManager" name="zf::OperationMenuManager">
+<area shape="rect" id="node1" title="Менеджер меню" alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node2" href="$classzf_1_1_i___object_extension.html" title="Интерфейс для потокобезопасного расширения возможностей QObject." alt="" coords="25,5,184,32"/>
+</map>
