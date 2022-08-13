@@ -4,6 +4,7 @@
 <param name="FrameName" value="right">
 </OBJECT>
 <UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="zfcore-demo"><param name="Local" value="md__home_we_dev_github_zfcore_demo__r_e_a_d_m_e.html"><param name="ImageNumber" value="11"></OBJECT>
 <LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
   <UL>
   <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
